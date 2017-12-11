@@ -7,5 +7,7 @@ Each of the following files compare Adam and Nadam in a different setting:
 3) conv_nn.ipynb
 
 More information on these algorithms can be found at:
+
 "Adam: A Method for Stochastic Optimization" https://arxiv.org/pdf/1412.6980.pdf
+
 "Incorporating Nesterov Momentum into Adam" http://cs229.stanford.edu/proj2015/054_report.pdf
