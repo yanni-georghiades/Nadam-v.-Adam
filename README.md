@@ -1,4 +1,6 @@
 # Nadam v. Adam
+Authors: Ashish Katiyar, Dave Van Veen, Yanni Georghiades
+
 Comparison of Nadam and Adam optimization algorithms using example problems: (1) linear regression, (2) MNIST classification with logistic regression, and (3) MNIST classification with convolutional neural networks.
 
 Please view each of the following notebooks, which compare Adam and Nadam in these three different settings:
