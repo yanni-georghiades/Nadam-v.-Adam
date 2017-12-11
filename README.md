@@ -18,3 +18,6 @@ https://arxiv.org/pdf/1412.6980.pdf
 <br />
 "Incorporating Nesterov Momentum into Adam" 
 http://cs229.stanford.edu/proj2015/054_report.pdf
+<br />
+"An overview of gradient descent optimization algorithms"
+https://arxiv.org/pdf/1609.04747.pdf
