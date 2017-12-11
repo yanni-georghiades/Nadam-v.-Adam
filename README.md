@@ -5,7 +5,7 @@ Comparison of Nadam and Adam optimization algorithms using example problems: (1)
 
 Please view each of the following notebooks, which compare Adam and Nadam in these three different settings:
 1) linear_regression.ipynb
-2) logistic_regression.ipynb -- takes ~1 hr to run
+2) logistic_regression.ipynb -- takes ~1 hr to run and need to unzip data/MNIST_data.zip prior to running
 3) conv_nn.ipynb -- takes ~1 hr to train networks and requires standard PyTorch installation
 
 Nadam and Adam are two state of the art optimization algorithms which are designed for convex objective functions but work well for non-convex objective functions like neural networks.
