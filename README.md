@@ -1,7 +1,7 @@
 # Nadam v. Adam
-Comparison of Nadam and Adam optimization algorithms using example problems: (1) linear regression, (2) MNIST classification with logistic regression, and (3) MNIST handwritten digit classification with convolutional neural networks.
+Comparison of Nadam and Adam optimization algorithms using example problems: (1) linear regression, (2) MNIST classification with logistic regression, and (3) MNIST classification with convolutional neural networks.
 
-Each of the following notebooks compare Adam and Nadam in a different setting:
+Please view each of the following notebooks, which compare Adam and Nadam in these three different settings:
 1) linear_regression.ipynb
 2) logistic_regression.ipynb
 3) conv_nn.ipynb
